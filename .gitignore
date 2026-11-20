@@ -1,0 +1,7 @@
+# Compiled binaries and objects
+*.o
+test_myalloc
+test_myalloc_ubsan
+bench
+core
+core.*
